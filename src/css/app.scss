@@ -1,0 +1,25 @@
+// app global css in SCSS form
+// font poppins semi bold
+@font-face {
+  font-family: customfont;
+  src: url(../fonts/Satoshi-Medium.otf);
+}
+.satoshiMedium {
+  font-family: "customfont";
+}
+
+@font-face {
+  font-family: customfont2;
+  src: url(../fonts/Satoshi-Bold.otf);
+}
+.satoshiBold {
+  font-family: "customfont2";
+}
+
+@font-face {
+  font-family: customfont3;
+  src: url(../fonts/Satoshi-Regular.otf);
+}
+.satoshiRegular {
+  font-family: "customfont3";
+}
