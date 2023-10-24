@@ -3,7 +3,7 @@
     <q-page-container>
       <q-page>
         <!-- part1 -->
-        <div class="q-pa-xl">
+        <div class="q-px-lg">
           <div
             class="row"
             style="background-color: #f7f8f8; border-radius: 48px"
@@ -11,6 +11,7 @@
             <div class="col-4 q-pa-lg">
               <div>
                 <div
+                  transition-show="jump-down"
                   class="satoshiMedium"
                   style="font-size: 20px; line-height: 30px"
                 >
